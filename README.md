@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey 👋! I'm **Jesse Constante (or vonsteer)**
 
-<!--
-**vonsteer/vonsteer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer living in Barcelona, Spain. 🇪🇸
+I'm a bit of a workaholic but when I find free time I try to buid cool and/or practical open source projects.
 
-Here are some ideas to get you started:
+### 📖 Languages
+- **Python**
+- C
+- Javascript
+- Rust (actively learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍🏭 Projects
+- **[TaskIQ-Aio-SQS](https://github.com/vonsteer/taskiq-aio-sqs)** - fully asynchronous SQS/S3 TaskIQ broker.
+
+Always looking for new oppurtunities to learn and grow as an engineer or developer.
+
+### 💬 Contact me
+* [LinkedIn](https://linkedin.com/in/vonsteer)
+* [Discord](@vonsteer)
+

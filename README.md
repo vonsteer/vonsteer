@@ -1,4 +1,4 @@
-### Hey 👋! I'm **Jesse Constante (or vonsteer)**
+### Hey 👋! I'm **Jesse (or vonsteer)**
 
 I'm a software engineer living in Barcelona, Spain. 🇪🇸
 I'm a bit of a workaholic but when I find free time I try to buid cool and/or practical open source projects.

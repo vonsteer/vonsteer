@@ -20,6 +20,7 @@
 - **[TaskIQ-Aio-SQS](https://github.com/vonsteer/taskiq-aio-sqs)** - fully asynchronous SQS/S3 task broker built with [TaskIQ](https://github.com/taskiq-python/taskiq).
 - **[AioCache-DynamoDB](https://github.com/vonsteer/aiocache-dynamodb)** - DynamoDBCache built with [AioCache](https://github.com/aio-libs/aiocache).
 - **[AWS ECR Scan Action](https://github.com/marketplace/actions/aws-ecr-security-report)** - Python based GitHub Action to scan container images in Amazon ECR for security vulnerabilities.
+- **[SpiderChef](https://github.com/vonsteer/spiderchef)** - Low code recipe based scraping framework, allows very rapid development of web scraping bots.
 - **[RegexPath](https://github.com/vonsteer/regexpath)** - ever wanted faster xpaths? this is a funny little PoC to build a compiler for regex using xpath expressions, designed to horrify scraping developers.
 
 
